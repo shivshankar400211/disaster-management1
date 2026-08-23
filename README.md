@@ -1,8 +1,8 @@
 # RakshaSetu — Django Full-Stack Prototype
 
-AICTE Smart India Hackathon 2026 · PS 26206 · Disaster Management
+· Disaster Management
 
-This project merges the previous frontend prototype with a Django backend.
+This project is frontend prototype with a Django backend.
 
 ## Architecture
 
